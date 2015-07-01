@@ -16,9 +16,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nrsedat/eslint-plugin-require-jsdoc"
+    "url": "https://github.com/thgrendel/eslint-plugin-require-jsdoc"
   },
-  "author": "Ratheesh Naithalath",
+  "author": "Ratheesh Naithalath / TH",
   "license": "ISC",
   "devDependencies": {
     "istanbul": "~0.3.13",

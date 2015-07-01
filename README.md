@@ -1,4 +1,5 @@
 # eslint-plugin-require-jsdoc
+_Original blurb by Ratheesh Naithalath_
 This is a plugin for [eslint](http://eslint.org/) for enforcing all FUNCTIONS should have jsdoc.   
 I had to write this because the (valid-jsdoc)(http://eslint.org/docs/rules/valid-jsdoc) rule in eslint did not help me to enforce that the functions MSUT have a jsdoc.Instead it validated the jsdoc. So for the best results **use both together** to make sure **jsdoc is a must** for all methods and **they are valid**.
 
@@ -20,3 +21,6 @@ eg:
 ##future
 In future I hope to add jsdoc validation as well. Hence two rules can be avoided.   
 Please let me know your feedbacks.
+
+##fork
+remove the requirement for  return tag.
